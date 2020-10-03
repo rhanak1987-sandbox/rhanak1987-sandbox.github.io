@@ -6,6 +6,24 @@
 
 Tesing Jekyll and markdown
 
+## markdown tests
+
+### local pages
+* [rhanak1987-sandbox.github.io](https://rhanak1987-sandbox.github.io/)
+* [index.html](https://rhanak1987-sandbox.github.io/index.html)
+* [index.md](https://rhanak1987-sandbox.github.io/index.md)
+* [README.html](https://rhanak1987-sandbox.github.io/README.html)
+* [README.md](https://rhanak1987-sandbox.github.io/README.md)
+
+### remote pages
+* [rhanak1987.github.io](https://rhanak1987.github.io/)
+* [index.html](https://rhanak1987.github.io/index.html)
+* [index.md](https://rhanak1987.github.io/index.md)
+* [README.html](https://rhanak1987.github.io/README.html)
+* [README.md](https://rhanak1987.github.io/README.md)
+
+___
+
 # default markdown test content
 
 ## Welcome to GitHub Pages
