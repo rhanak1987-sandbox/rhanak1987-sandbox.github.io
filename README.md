@@ -6,11 +6,11 @@ Can I create a github page for this org?
 * git: local-repo, github, md, github-pages, jekyll
 
 ## Legal
-* See the [Main Project License](./LICENSE)
+* See the [main License of this repo](./LICENSE)
 * Please check out the [general notes and warnings](https://github.com/rhanak1987-sandbox/hello-world/blob/master/_possible-license-concerns.md) and use it as a guideline, as if the file was placed into this project
-* Please use common sense, and act in good faith
+* Please use common sense, act with good intentions AND due diligence
 
-## Let's see:
+## Let's see (links for inspiration)
 * https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
 * https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml
 
