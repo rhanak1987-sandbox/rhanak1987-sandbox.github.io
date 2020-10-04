@@ -10,7 +10,9 @@ Tesing Jekyll and markdown
 
 ### local pages
 * [rhanak1987-sandbox.github.io](https://rhanak1987-sandbox.github.io/)
+  * [site - relative path](./)
 * [index.html](https://rhanak1987-sandbox.github.io/index.html)
+  * [index.html - relative path](./index.html)
 * [index.md](https://rhanak1987-sandbox.github.io/index.md)
 * [README.html](https://rhanak1987-sandbox.github.io/README.html)
 * [README.md](https://rhanak1987-sandbox.github.io/README.md)
