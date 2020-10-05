@@ -2,7 +2,7 @@
 * Check the site at [rhanak1987-sandbox.github.io](https://rhanak1987-sandbox.github.io/index.html)
 
 ## About
-Demo github page for this org
+Demo github page for my sandbox org
 
 ## Tech Stack
 * git: local-repo, github, md, github-pages, jekyll
