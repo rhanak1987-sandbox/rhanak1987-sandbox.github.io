@@ -10,6 +10,7 @@
 ## project pages
 * https://rhanak1987-sandbox.github.io/hello-world/
   * [hello-world - relative path](./hello-world/)
+  * [possible-license-concerns](https://rhanak1987-sandbox.github.io/hello-world/_possible-license-concerns.md)
 
 ## Tesing Jekyll and markdown
 
