@@ -4,9 +4,12 @@
 
 # rhanak1987-sandbox GitHub site
 
-Tesing Jekyll and markdown
+## showcases
+* [2020-09-static-site-basics](./showcases/2020-09-static-site-basics/)
 
 ## markdown tests
+
+Tesing Jekyll and markdown
 
 ### local pages
 * [rhanak1987-sandbox.github.io](https://rhanak1987-sandbox.github.io/)
