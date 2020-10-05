@@ -7,6 +7,10 @@
 ## showcases
 * [2020-09-static-site-basics](./showcases/2020-09-static-site-basics/)
 
+## project pages
+* https://rhanak1987-sandbox.github.io/hello-world/
+  * [hello-world - relative path](./hello-world/)
+
 ## Tesing Jekyll and markdown
 
 ### local pages
