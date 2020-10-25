@@ -53,6 +53,7 @@ main div.embeds{
     padding-top: 18px;
 }
 
+/* 1:84 - 2:54 - 3:42 - 4:30 - 5:24 - 6:20 - p:18 - small:14*/
 h1 {
     font-size: 84px;
     font-family: Arial, Helvetica, sans-serif;
@@ -62,10 +63,20 @@ h1 {
     margin-top: 0px;*/
 }
 
-p {
+h4 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #EADBC1;
+}
+
+p, li {
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
     color: #EADBC1;
+}
+
+li {
+    text-align: left;
 }
 
 header p {
