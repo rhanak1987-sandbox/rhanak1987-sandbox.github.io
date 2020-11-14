@@ -1,0 +1,22 @@
+### Brawl Deck
+# Class: Priest
+# Format: Standard
+# Year of the Phoenix
+#
+# 1x (0) Wisp
+# 2x (1) Abusive Sergeant
+# 2x (1) Blazing Battlemage
+# 2x (1) Disciple of Galakrond
+# 1x (2) Ancient Watcher
+# 2x (2) Dalaran Librarian
+# 2x (2) EVIL Cable Rat
+# 1x (3) Arcane Watcher
+# 2x (3) Ironbeak Owl
+# 1x (4) Devoted Maniac
+# 2x (4) Hench-Clan Shadequill
+# 1x (5) Shield of Galakrond
+# 1x (7) Galakrond, the Unspeakable
+# 
+AAECAZ/HAgazAd0ErpsD/q4Dqq8DyMADB/IBogK0kQODlAOCnQParAP5rgMA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
